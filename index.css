@@ -1,0 +1,105 @@
+h1 {
+	text-align: left;
+}
+div.sans{
+	height: 90%;
+	padding: 10px;
+	font-family: sans-serif;
+	font-weight: thin;
+	vertical-align: top;
+	font-size: 16pt;
+}
+body {
+	background-color: #ABACEF;
+}
+td.scroll{
+	overflow-y: scroll;
+	border: 3px;
+	border-style: inset;
+	vertical-align: left;
+	text-align: middle;
+}
+td.select{
+	border: 5px;
+	border-style: solid;
+	border-color: #130B92;
+	background-color: #C9A8EF;
+	font-weight: bold;
+	font-size: 21pt;
+	font-style: italic;
+	color: #0E00C9;
+	width: 8%;
+	text-align: center;
+}
+td.sans{
+	font-family: sans-serif;
+}
+td.welcomeText{
+	font-family: sans-serif;
+	font-size: 20pt;
+}
+td.bottom{
+	color: #DFDEF0;
+	font-family: monospace;
+}
+td.WelcomeToOz{
+	font-size: 18pt;
+	font-family: sans-serif;
+}
+td.sidemenu{
+	color: #DBDCFA;
+	background-color: #010066;
+	text-decoration: underline;
+	font-size: 14pt;
+	box-shadow: 0px -1px #121064;
+	border-top: solid 2px #5B59E1;
+	border-bottom: solid 2px #5B59E1;
+	padding: 8px;
+}
+td.sidemenu2{
+	background-color: #24218A;
+	box-shadow: 0px -1px #121064;
+	border-top: solid 2px #5B59E1;
+	border-bottom: solid 2px #5B59E1;
+}
+td.rightmenu{
+	vertical-align: top;
+}
+table.rightmenu{
+	vertical-align: bottom;
+}
+table.bottom{
+	background-image: linear-gradient(#ABACEF,BLACK);
+}
+table.menu{
+	border-style: dotted;
+	border-color: #24218A;
+	border-spacing: 3px;
+}
+tr.Select{
+	color: #0001F2;
+	font-weight: bold;
+}
+span.black{
+	color: black;
+}
+span.white{
+	text-decoration: underline;
+}
+td.Welcome{
+	font-family: Times New Roma;
+	color: #0001F2;
+	text-shadow: 0px 0px 15px black;
+	font-size: 52pt;
+	font-weight: bold;
+}
+table.menuRight{
+	border-collapse: collapse;
+}
+img.witch{
+	border: solid 8px #020570;
+	box-shadow: 0px 3px #7A79A3;
+}
+table.InfoPanel{
+	margin-top: 80px;
+}
